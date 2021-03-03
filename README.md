@@ -4,4 +4,4 @@ was drafted as an exam project for Deep Learning training course at SoftUni. Use
 The project is organised into 3 ipynb files:
 - DL_Final_Project_Style_Transfer_AK_01.ipynb - Style Transfer with VGG implementation
 - DL_Final_Project_Style_Transfer_AK_02.ipynb - Style Transfer with ResNet50 implementation
-- DL_Final_Project_Style_Transfer_AK_03.ipynb - an attempt to train a new model and to use it for Style Transfer
+- DL_Final_Project_Style_Transfer_AK_03.ipynb - an attempt to train a new model and to use it for Style Transfer. The file is too large (36.5MB) and cannot be uploaded here. Nonetheless, it could be accessed via this link: https://colab.research.google.com/drive/1-1zXKwLZP5TVpu8_Wv-lhFBM8hQEKWsy?usp=sharing.
